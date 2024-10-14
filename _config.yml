@@ -1,5 +1,5 @@
 # Site settings
-title: FFORNER
+title: 'FFORNER'
 description: 'Francesco  MAKE IT EASY' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
